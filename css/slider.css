@@ -89,11 +89,11 @@
 	left: -17px;
 }
 
-.women-range__list > .slick-prev:active,
-.women-rewards__images > .slick-prev:active,
-.women-rewards__slider > .slick-prev:active{
-	left: -10px;
-}
+/*.women-range__list > .slick-prev:active,*/
+/*.women-rewards__images > .slick-prev:active,*/
+/*.women-rewards__slider > .slick-prev:active{*/
+	/*left: -10px;*/
+/*}*/
 
 .women-range__list > .slick-next{
 	top: 180px;
